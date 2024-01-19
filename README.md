@@ -1,5 +1,5 @@
 # Realizzare i seguenti esercizi in C o in C++:
-<pre>
+<p>
 1) Realizzare un programma che: stampa sulla console i primi 100 numeri dispari, usando una funzione "is_pari" che dice se il numero passato come argomento è pari oppure no.
 
 2) Realizzare un programma che dichiara un vettore di 10 interi e, usando apposite funzioni definite nel programma, chiede all'utente di riempirlo con numeri a sua scelta, ne stampa tutti i valori, la somma dei valori, il valore minimo, il valore massimo.
@@ -11,4 +11,4 @@
 5) Scrivere un programma che crea una matrice 10x10 e la riempe con i numeri della tavola pitagorica. Poi la stampa.
 
 6) Scrivere un programma che genera 100 numeri interi random, li memorizza in un vettore, ordina il vettore in modo decrescente e stampa il file, utilizzando apposite funzioni definite nel programma.
-</pre>
+</p>
